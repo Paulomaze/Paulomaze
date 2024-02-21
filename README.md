@@ -9,4 +9,6 @@
 
 # Tecnologias
 
-<img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=Kibana&logoColor=white" />                         
+<img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=Kibana&logoColor=white" />  
+
+<img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=Kibana&logoColor=white" />  
