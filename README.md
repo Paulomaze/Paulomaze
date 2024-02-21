@@ -18,3 +18,10 @@
 <img src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=Kibana&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Kibana&logoColor=white" />
+
+# Redes Sociais
+
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Kibana&logoColor=white" />  
+
+<img src="https://img.shields.io/badge/Instagran-purple?style=for-the-badge&logo=Kibana&logoColor=white" />  
+
