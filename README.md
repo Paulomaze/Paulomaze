@@ -29,3 +29,5 @@
 
 <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" />  
 
+<img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />  
+
