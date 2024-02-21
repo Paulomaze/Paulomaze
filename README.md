@@ -13,13 +13,5 @@
 
 # Redes Sociais
 
-<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />  
-
-<img src="https://img.shields.io/badge/Instagran-purple?style=for-the-badge&logo=instagram&logoColor=white" />  
-
-<img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />  
-
-<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" />  
-
-<img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />  
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/Instagran-purple?style=for-the-badge&logo=instagram&logoColor=white" /> <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /> <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />  
 
