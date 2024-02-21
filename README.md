@@ -25,3 +25,5 @@
 
 <img src="https://img.shields.io/badge/Instagran-purple?style=for-the-badge&logo=instagram&logoColor=white" />  
 
+<img src="https://img.shields.io/badge/twitter-purple?style=for-the-badge&logo=twitter&logoColor=white" />  
+
