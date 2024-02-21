@@ -6,5 +6,7 @@
 	  <img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Paulo+Lacerda;Sou+aluno+fullstack,+Designer!&center=true&width=780&height=45">
   </a>
 </p>
+
 # Tecnologias
+
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />                         
