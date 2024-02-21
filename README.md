@@ -9,9 +9,9 @@
 
 # Tecnologias
 
-<img src="https://img.shields.io/badge/Html5-orange?style=for-the-badge&logo=Kibana&logoColor=white" />  
+<img src="https://img.shields.io/badge/Html5-orange?style=for-the-badge&logo=html5&logoColor=white" />  
 
-<img src="https://img.shields.io/badge/Css3-blue?style=for-the-badge&logo=Kibana&logoColor=white" />  
+<img src="https://img.shields.io/badge/Css3-blue?style=for-the-badge&logo=css3&logoColor=white" />  
 
 <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=Kibana&logoColor=white" />
 
